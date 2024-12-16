@@ -1,4 +1,2 @@
 hello world
 welcome to all
-devops
-git
